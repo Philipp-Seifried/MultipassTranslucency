@@ -1,3 +1,4 @@
+![project screenshot](https://i.imgur.com/qKVKUfo.jpg)
 
 A proof of concept for a translucency / fake subsurface-scattering shader, based on multiple passes.
 
